@@ -26,8 +26,8 @@ CREATE DATABASE libreria;
 2. Configurar credenciales en `src/main/resources/application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/libreria
-spring.datasource.username=tu_usuario
-spring.datasource.password=tu_password
+spring.datasource.username=AngelDB
+spring.datasource.password=#########
 ```
 
 ## Ejecutar
